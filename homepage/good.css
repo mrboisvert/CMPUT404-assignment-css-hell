@@ -1,0 +1,55 @@
+header {
+    background-color: rgb(0, 131, 197);
+    text-align: center;
+    color: rgb(254,254,254);
+    margin-bottom: 2em;
+    border-bottom: 0.25em solid black;
+}
+
+header h1 {
+    margin: 0;
+}
+
+h1 {
+    margin-top: 0;
+    font-weight: 200;
+}
+
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-container > img {
+    height: 150;
+    width: 150;
+    margin-right: 1em;
+}
+
+.flex-container > h1 {
+    margin-top: 0;
+}
+
+.section {
+    margin-bottom: 2em;
+}
+
+.sidebar {
+    float: right;
+    width: 10%;
+    background: #dff;
+    height: auto;
+    text-align: center;
+    margin-right: 3em;
+    margin-left: 1em;
+    background-color: rgb(239,239,239);
+}
+
+.content {
+    margin-left: 3em;
+}
