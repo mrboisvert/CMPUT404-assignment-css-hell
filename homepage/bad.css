@@ -6,7 +6,7 @@ header {
 }
 
 header > h1, header > span {
-    /* 
+    /*
     The following code for creating text with a gradient color was
     created by Sarah L. Fossheim.
 
@@ -18,7 +18,7 @@ header > h1, header > span {
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
-    -webkit-text-fill-color: transparent; 
+    -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
 }
 
@@ -33,7 +33,7 @@ h1 {
 
 body {
     margin: 0;
-    font-family: "Comic Sans MS"
+    font-family: Comic Sans MS, Comic Sans, cursive
 }
 
 .flex-container {
@@ -57,7 +57,7 @@ body {
 
 .sidebar {
     float: right;
-    width: 10%;
+    width: 15%;
     background: #dff;
     height: auto;
     text-align: center;
