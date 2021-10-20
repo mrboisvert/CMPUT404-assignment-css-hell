@@ -1,16 +1,10 @@
 Assignment: CSS Hell
 ====================
 
-You will skin 3 project gutenberg stories with custom CSS.
+This repository was forked from https://github.com/abramhindle/CMPUT404-assignment-css-hell.git.
+All modifications were made by Michael Boisvert with no collaborators.
 
-You will skin 2 versions of a possible professional homepage for your
-self with 2 versions of CSS.
-
-Read requirements.org
-
-Read this comic http://theoatmeal.com/comics/design_hell
-
-git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
+In each project gutenberg HTML file, the style elements were commented out and a link to the css style sheet was added: <link rel="stylesheet" type="text/css" href="gutenberg.css">. No other modifications were made.
 
 License/Copyright
 =================
